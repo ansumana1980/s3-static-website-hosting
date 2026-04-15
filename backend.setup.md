@@ -114,7 +114,7 @@ dynamodb_table = "ansu-s3-static-website-locks"
 
 > “I implemented a reusable Terraform backend setup using parameterized S3 and DynamoDB resources to support different environments securely.”
 
-````
+
 
 
 
