@@ -1,5 +1,3 @@
-You’ve got an extra outer code fence and a mismatched closing fence. Replace your README with this cleaned version:
-
 ````md
 # 🌐 S3 Static Website Hosting with Terraform
 
