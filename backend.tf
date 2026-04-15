@@ -1,3 +1,6 @@
+```md
+👉 See backend setup instructions in backend.setup.md
+````
 # create s3 backend for state management
 terraform {
   backend "s3" {
