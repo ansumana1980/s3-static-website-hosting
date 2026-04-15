@@ -119,13 +119,4 @@ dynamodb_table = "ansu-s3-static-website-locks"
 
 ````
 
----
 
-# 🔥 Why this is important (for YOU)
-
-Using placeholders:
-- Shows you understand **reusability**
-- Makes your repo usable by others
-- Signals **mid-level → senior thinking**
-
----
