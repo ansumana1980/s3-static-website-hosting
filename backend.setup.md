@@ -1,7 +1,3 @@
-Yes — **exactly right 👍**. That’s what makes it reusable and professional.
-
-Here’s your **updated `backend.setup.md` with placeholders done correctly**:
-
 ---
 
 ````md
@@ -118,5 +114,7 @@ dynamodb_table = "ansu-s3-static-website-locks"
 > “I implemented a reusable Terraform backend setup using parameterized S3 and DynamoDB resources to support different environments securely.”
 
 ````
+
+---
 
 
