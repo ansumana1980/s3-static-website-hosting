@@ -1,5 +1,6 @@
+You’ve got an extra outer code fence and a mismatched closing fence. Replace your README with this cleaned version:
 
-```md
+````md
 # 🌐 S3 Static Website Hosting with Terraform
 
 This project demonstrates how to host a static website using **Amazon S3** and provision infrastructure using **Terraform**.
@@ -24,8 +25,7 @@ The website is publicly accessible via the S3 static website endpoint.
 
 ## 📁 Project Structure
 
-```
-
+```text
 s3-static-website/
 ├── main.tf
 ├── variables.tf
@@ -38,23 +38,22 @@ s3-static-website/
 │   ├── homepage.png
 │   ├── s3-bucket.png
 │   └── terraform-apply.png
-├── website/
-│   ├── index.html
-│   ├── error.html
-│   ├── hw.css
-│   └── hw.jpeg
-
+└── website/
+    ├── index.html
+    ├── error.html
+    ├── hw.css
+    └── hw.jpeg
 ````
 
 ---
 
 ## ⚙️ Features
 
-- ✅ Infrastructure as Code (Terraform)
-- ✅ S3 static website hosting configuration
-- ✅ Public access via bucket policy
-- ✅ Automated upload of website files
-- ✅ Output of website endpoint URL
+* ✅ Infrastructure as Code (Terraform)
+* ✅ S3 static website hosting configuration
+* ✅ Public access via bucket policy
+* ✅ Automated upload of website files
+* ✅ Output of website endpoint URL
 
 ---
 
@@ -65,7 +64,7 @@ s3-static-website/
 ```bash
 git clone https://github.com/ansumana1980/s3-static-website-hosting.git
 cd s3-static-website-hosting
-````
+```
 
 ---
 
@@ -121,7 +120,7 @@ Open the URL in your browser.
 
 ## 🏗️ Architecture Diagram
 
-```
+```text
         User Browser
               │
               ▼
@@ -185,4 +184,5 @@ Open the URL in your browser.
 > Built and deployed a static website using Amazon S3 and Terraform, implementing infrastructure as code, automated asset deployment, and public access configuration.
 
 ---
+
 
